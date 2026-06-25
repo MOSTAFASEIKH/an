@@ -1,5 +1,10 @@
-#  Mostafa Seikh
+# House Price Prediction
 
-# Aiml project
+### Supervised Learning
+* It predicts the continuous values.
+* It learns the relationship between input feature and output target variable.
+* It uses labeled data.
 
-# Project flow:
+### Tools Used
+* Python
+* Pandas
