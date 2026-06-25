@@ -1,4 +1,8 @@
-pandas
-numpy
-matplotlib
-jupyter
+
+numpy 
+pandas 
+matplotlib 
+seaborn 
+scikit-learn 
+jupyter 
+ipykernel 
